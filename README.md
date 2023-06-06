@@ -1,6 +1,6 @@
-# TechTales
+# Techies Blog
 
-Welcome to TechTales, a blog website dedicated to sharing exciting stories, insights, and information about various tech topics. This repository contains the source code for the TechTales website.
+Welcome to Techies Blog, a blog website dedicated to sharing exciting stories, insights, and information about various tech topics. This repository contains the source code for the Techies Blog website.
 
 ## Table of Contents
 
@@ -16,13 +16,13 @@ Welcome to TechTales, a blog website dedicated to sharing exciting stories, insi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/hemant14050/TechTales-Blogs.git
+   git clone https://github.com/hemant14050/techies-blog.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd TechTales
+   cd techies-blog
    ```
 
 3. Install the required dependencies:
